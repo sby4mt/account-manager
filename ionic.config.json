@@ -1,0 +1,7 @@
+{
+  "name": "account_manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
