@@ -1,0 +1,11 @@
+.root {
+  width: 240px;
+}
+
+.note {
+  padding: 16px;
+}
+
+.selected {
+  --color: var(--ion-color-primary);
+} 
